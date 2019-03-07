@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLabConsole", "src\GitLabConsole\GitLabConsole.csproj", "{F766B344-9353-4876-8E92-DDA127718DFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F9DF51BB-7BDB-4B89-BBAB-60FD738D1029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F766B344-9353-4876-8E92-DDA127718DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F766B344-9353-4876-8E92-DDA127718DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F766B344-9353-4876-8E92-DDA127718DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F766B344-9353-4876-8E92-DDA127718DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F766B344-9353-4876-8E92-DDA127718DFA} = {F9DF51BB-7BDB-4B89-BBAB-60FD738D1029}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3374AF0-4DDF-4F22-8A39-9EE6DD64218A}
+	EndGlobalSection
+EndGlobal
