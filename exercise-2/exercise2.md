@@ -1,15 +1,17 @@
 # Making changes
 
-1. Create a new `branch`.
+1. Create a new feature `branch`.
 
 2. Make some changes to the code. For example, add a third paragraph in `Program.cs`.
 
 3. `commit` your changes.
 
-4. Change back to the `master` branch
+4. `checkout` the `master` branch.
 
-5. Merge your new branch into `master`.
+5. `merge` your new branch into `master`.
 
-6. `push` your changes 
+6. `push` your changes.
 
-7. Go to your Azure devops repository and verify that your changes have been pushed to the `master` branch.
+7. Optionally delete your local feature `branch`.
+
+8. Go to your Azure devops repository and verify that your changes have been pushed to the `master` branch.
