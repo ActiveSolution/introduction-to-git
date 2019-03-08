@@ -1,4 +1,4 @@
-# Making changes using a pull request
+# Making a pull request
 
 1. Create a new feature `branch`.
 

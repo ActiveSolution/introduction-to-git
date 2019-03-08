@@ -9,11 +9,15 @@
 4. `checkout` the `master` branch.
 
 5. "Simulate" that someone else has made conflicting changes and pushed them to the `master` branch while we were working on our new feature.
-  - Make new changes to the same paragraph that you changed in 2. 
-  - Commit them in the `master` branch.
+    - Make new changes to the same paragraph that you changed in 2. 
+    - Commit them in the `master` branch.
 
-6. Merge your new branch into `master`.
+6. `merge` your new branch into `master`.
 
-7. Push your changes 
+7. Oh no! Conflicts. Let's resolve them.
 
-8. Go to your Azure DevOps repository and verify that your changes have been pushed to the `master` branch.
+8. `commit` your resolved changes.
+
+9. `push` your changes.
+
+10. Go to your Azure DevOps repository and verify that your changes have been pushed to the `master` branch.
