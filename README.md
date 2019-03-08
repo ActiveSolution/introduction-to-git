@@ -4,7 +4,7 @@ This is an example repository with some excercises to try as an introduction to 
 
 ## Setup
 
-### 1. Start by cloning this repository
+#### 1. Start by cloning this repository
 
 - Using the command line
     - Navigate to the parent folder where you want to place the source code.
@@ -21,7 +21,7 @@ This is an example repository with some excercises to try as an introduction to 
 
     ![alt text](images/VS_Clone.png "vs2017")
 
-### 2. Open the solution and try to run it.
+#### 2. Open the solution and run it.
 
 ## Exercises
 The exercises and their corresponding solutions can be found in the exercise folders.
