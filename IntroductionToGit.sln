@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLabConsole", "src\GitLabConsole\GitLabConsole.csproj", "{F766B344-9353-4876-8E92-DDA127718DFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionToGitConsole", "src\IntroductionToGitConsole\IntroductionToGitConsole.csproj", "{F766B344-9353-4876-8E92-DDA127718DFA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F9DF51BB-7BDB-4B89-BBAB-60FD738D1029}"
 EndProject
