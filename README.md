@@ -24,4 +24,4 @@ This is an example repository with some excercises to try as an introduction to 
 ### 2. Open the solution and try to run it.
 
 ## Exercises
-The exercises can be found in the exercises-folders
+The exercises and their corresponding solutions can be found in the exercises- folders and solution-folders.
