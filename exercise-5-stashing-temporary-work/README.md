@@ -6,7 +6,7 @@ Some times you might be working on a new feature when suddenly something else de
 
 2. Make some unfinished changes to the code. Maybe the code does not even compile at this point.
 
-Now when something else requires your attention you have 2 options. `commit` your changes or `stash` them.
+    Now when something else requires your attention you have 2 options. `commit` your changes or `stash` them.
   - If you're working on a local feature branch there is usually no issue with commiting your changes
   - If, for some reason, you do not want to commmit your changes, but also you do not want to loose them you can instead save your temporary work by stashing it.
 
