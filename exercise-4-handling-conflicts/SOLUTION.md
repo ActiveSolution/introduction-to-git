@@ -36,7 +36,7 @@
     ```
 
 7. Oh no! Conflicts. Let's resolve them.
-    I recommend using a GUI tool to resolve conflicts, see some alternatives [here](https://git-scm.com/downloads/guis/)
+    I recommend installing a third party tool to resolve conflicts, for example [kdiff3](http://kdiff3.sourceforge.net/) or [p4merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) and then configure your git GUI or git from the command line to use that tool for diffs and merges.
 
 8. `commit` your resolved changes.
     ```
