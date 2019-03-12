@@ -22,6 +22,9 @@
     ```
 
 3. `push` your local repository to the Azure repository.
+    ```
+    git push --set-upstream origin master
+    ```
 
 ---
 
@@ -38,4 +41,5 @@
 
 ---
 
-4. Go to your repository in Azure DevOps and verify that repository is not empty.
+4. Go to your repository in Azure DevOps and verify that repository is not empty.  
+    \-
