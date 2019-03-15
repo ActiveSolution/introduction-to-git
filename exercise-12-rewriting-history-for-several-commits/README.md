@@ -12,6 +12,6 @@ You can make changes to several of your latest commits, e.g. you can roll back y
 
 At this point you may realise that there's something wrong with the file you commited first.
 
-3. ´reset´ your ´working directory´ to the state of the first commit **without** losing your changes.
+3. `reset` your `working directory` to the state of the first commit **without** losing your changes.
 
 4. Make any corrections you like to the first file, then commit your changes again.

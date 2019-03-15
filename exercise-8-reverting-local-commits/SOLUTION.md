@@ -16,13 +16,13 @@ If you have already pushed your commits you need to instead `revert` them, see t
 4. Remove the commit by using the `reset` command. 
     - If you don't want to lose your changes, you just don't want them committed you can do a *soft* reset. This will keep the changes, staged in your working directory.
         ``` 
-        git reset --soft HEAD^1
+        git reset --soft HEAD~1
         ```
-        Where `HEAD^1` means the *parent* commit. If you want to reset more commits you can increase the number. We will look more in depth on that feature in exercise-12.  
+        Where `HEAD~1` means the *parent* commit. If you want to reset more commits you can increase the number. We will look more in depth on that feature in exercise-12.  
         Leaving out the `--soft` flag will still keep the changes, but they will no longer be staged.
     - If you do not want to keep the changes at all you can do a hard reset.
         ```
-        git reset --hard HEAD^1
+        git reset --hard HEAD~1
         ```
         This will remove the changes completely, although they will not be completely lost as we will see in exercise-10.
     

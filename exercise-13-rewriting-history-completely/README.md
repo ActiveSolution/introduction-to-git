@@ -10,6 +10,4 @@ Using git's interactive `rebase` functionality you can essentially make any conc
 
 2. Make some changes to your code, for example add 3 files in 3 separate commits.
 
-At this point you may realise that file number 2 never should have been committed at all. And maybe the commits should really have been just 1 commit.
-
-3. ´rebase´ your changes interactively to make the suggested changes.
+3. ´rebase´ your changes interactively to changes to the history.
