@@ -6,10 +6,12 @@
 
 3. `commit` your changes.
 
-4. Go to Azure DevOps and create a new `pull request` from your feature `branch`.
+4. `push` your feature branch.
 
-5. Approve the `pull request`, optionally delete the feature `branch` when prompted.
+5. Go to Azure DevOps and create a new `pull request` from your feature `branch`.
 
-6. Go to your Azure DevOps repository and verify that your changes are now in the `master` branch.
+6. Approve and Complete the `pull request`, optionally delete the feature `branch` when prompted.
 
-7. Go to your local repository and `pull` the latest changes from the `master` branch.
+7. Go to your Azure DevOps repository and verify that your changes are now in the `master` branch.
+
+8. Go to your local repository and `pull` the latest changes from the `master` branch.
