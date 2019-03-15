@@ -36,17 +36,30 @@
     ```
 
 7. Oh no! Conflicts. Let's resolve them.
+    ## Using the command line
     I recommend installing a third party tool to resolve conflicts, for example [kdiff3](http://kdiff3.sourceforge.net/) or [p4merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) and then configure your git GUI or git from the command line to use that tool for diffs and merges.
 
-8. `commit` your resolved changes.
+    After you have resolved the conflicts you have to commit the merge:
     ```
-    git commit -m"Fixed merge conflicts"
+    git commit -m"Merge feature/exercise4 into master"
     ```
 
-9. `push` your changes.
+    ## Using visual studio
+    When there are merge conflicts they will show up under the Branches view in the Teams Explorer. Click on conflicts to view the conflicts.  
+    <img src="../images/exercise4_1.png" />
+
+    Click on the file you wish to handle conflicts for and press the Merge button to get to the merge view:  
+
+    <img src="../images/exercise4_2.png" />
+    <img src="../images/exercise4_3.png" />
+
+    In the merge view select which change to keep (left or right) and select with the checkbox next to the changed line of code. Then click Accept Merge in the top of the merge view.
+    In the Team Explorer you can then choose to commit the merge.
+
+8. `push` your changes.
     ```
     git push
     ```
 
-10. Go to your Azure DevOps repository and verify that your changes have been pushed to the `master` branch.  
+9. Go to your Azure DevOps repository and verify that your changes have been pushed to the `master` branch.  
     \-
