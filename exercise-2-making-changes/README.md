@@ -2,7 +2,7 @@
 
 1. Create a new feature `branch`.
 
-2. Make some changes to the code. For example, add a third paragraph in `Program.cs`.
+2. Make some changes to the code. For example, add a paragraph in `Program.cs`.
 
 3. `commit` your changes.
 

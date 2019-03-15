@@ -4,7 +4,7 @@
     - Go to Azure DevOps 
     - If you do not already have a suitable project, create a new one.
 
-        <img src="../images/devops_create_project.png" height="600">
+        <img src="../images/devops_create_project.png" height="600" />
 
 
     - Go to **Repos** and copy the HTTPS url to your repository.
@@ -31,12 +31,12 @@
 
 ## using Visual Studio
 2.
-    - go to the **Team Explorer** and select settings from the top drop-down menu.  
-        <img src="../images/team_explorer.png">  
+    - go to the **Team Explorer** and select settings from the top drop-down menu.  ö
+        <img src="../images/team_explorer.png" />  
 
 
     - select **Repository settings** and at the bottom edit the Remote url.  
-        <img src="../images/team_explorer_settings.png">
+        <img src="../images/team_explorer_settings.png" />
 
 3. `push` your local repository to the Azure repository.
 
