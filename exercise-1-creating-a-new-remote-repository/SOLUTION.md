@@ -3,6 +3,7 @@
 1. Create your own git repository in Azure DevOps.
     - Go to Azure DevOps 
     - If you do not already have a suitable project, create a new one.
+
         <img src="../images/devops_create_project.png" height="600">
 
 
