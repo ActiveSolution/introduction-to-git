@@ -25,3 +25,23 @@ This is an example repository with some excercises to try as an introduction to 
 
 ## Exercises
 The exercises and their corresponding solutions can be found in the exercise folders.
+
+## Useful links
+### GUIs
+- https://git-scm.com/downloads/guis/
+- https://www.sourcetreeapp.com/
+- https://desktop.github.com/
+- https://gitextensions.github.io/
+- https://git-fork.com/
+
+### Cheat sheet
+- https://education.github.com/git-cheat-sheet-education.pdf
+
+### Tools
+- [Generate .gitignore](https://gitignore.io/)
+- [Git Credential Manager for Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows)
+
+### More learning
+- [Learn git branching](https://learngitbranching.js.org/)
+- [A visual git guide](https://marklodato.github.io/visual-git-guide/index-en.html)
+- [Git as a graph](http://think-like-a-git.net/)
